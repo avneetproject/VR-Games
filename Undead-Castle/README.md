@@ -6,6 +6,14 @@ The core goal of the project was to translate the **thrill, difficulty, and sati
 
 ---
 
+## Showcase Video
+
+[![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/11Jsj3ICjwzrO5m9Ta72m5faOOB2zYGHG/view?usp=sharing)
+
+_Click the image to watch the gameplay video on Google Drive._
+
+---
+
 ## Gameplay Overview
 
 Players are placed inside a custom-built castle environment designed to evoke a dark, oppressive atmosphere. Combat emphasizes positioning, timing, and decision-making rather than button mashing. Every encounter is designed to feel dangerous and rewarding.
@@ -46,14 +54,6 @@ The overall pacing leans toward **fast, engaging combat** while retaining the br
 - Custom-built castle environment  
 - Advanced enemy AI with dodge, evasion, power-ups, and AOE attacks  
 - Challenging, dark, and thrilling gameplay loop  
-
----
-
-## Showcase Video
-
-[![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/11Jsj3ICjwzrO5m9Ta72m5faOOB2zYGHG/view?usp=sharing)
-
-_Click the image to watch the gameplay video on Google Drive._
 
 ---
 
